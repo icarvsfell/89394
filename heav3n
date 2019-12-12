@@ -1,263 +1,313 @@
-<!—
+<!---
 
-                           GO TO HEAVEN by ALLY
 
-   — don’t steal anything from this code
-   — don’t remove the credit, it’s very small, it won’t hurt your aesthetic
-— don’t redistribute or claim this theme as your own
 
-—>
+
+                            GO TO HEAVEN by ALLY
+ 
+    — don't steal anything from this code
+    — don't remove the credit, it's very small, it won't hurt your aesthetic
+	— don't redistribute or claim this theme as your own
+                                     
+                                     
+                                     
+                                     
+--->
+
+
 
 <html><head>
 
-<!——    meta tags & scripts    ——>
 
-   <meta name=“image:background” content=“”/>
-   <meta name=“image:sidebar” content=“”/>
 
-   <meta name=“image:muse1” content=“”/>
-   <meta name=“image:muse2” content=“”/>
-   <meta name=“image:muse3” content=“”/>
-   <meta name=“image:muse4” content=“”/>
-   <meta name=“image:muse5” content=“”/>
-   <meta name=“image:muse6” content=“”/>
-   <meta name=“image:muse7” content=“”/>
-   <meta name=“image:muse8” content=“”/>
-   <meta name=“image:muse9” content=“”/>
-   <meta name=“image:muse10” content=“”/>
-   <meta name=“image:muse11” content=“”/>
-   <meta name=“image:muse12” content=“”/>
+<!------    meta tags & scripts    ------>
 
-   <meta name=“color:background” content=“#f3f3f3”/>
-   <meta name=“color:contain” content=“#f1f1f1”/>
-   <meta name=“color:desc” content=“#f8f8f8”/>
-   <meta name=“color:sidelinks” content=“#525252”/>
-   <meta name=“color:postbg” content=“#f3f3f3”/>
-   <meta name=“color:title” content=“#b4d7b7”/>
-   <meta name=“color:bold” content=“#d4caa2”/>
-   <meta name=“color:italic” content=“#d4a587”/>
-   <meta name=“color:text” content=“#525252”/>
-   <meta name=“color:links” content=“#525252”/>
-   <meta name=“color:hover” content=“#f3f3f3”/>
 
-   <meta name=“text:title” content=“like fallin’ from grace”/><!— the different color text is <i> italic </i> —>
-   <meta name=“text:desc” content=“lorem ipsum”/>
 
-   <meta name=“text:muse1name” content=“first last”/>
-   <meta name=“text:muse2name” content=“first last”/>
-   <meta name=“text:muse3name” content=“first last”/>
-   <meta name=“text:muse4name” content=“first last”/>
-   <meta name=“text:muse5name” content=“first last”/>
-   <meta name=“text:muse6name” content=“first last”/>
-   <meta name=“text:muse7name” content=“first last”/>
-   <meta name=“text:muse8name” content=“first last”/>
-   <meta name=“text:muse9name” content=“first last”/>
-   <meta name=“text:muse10name” content=“first last”/>
-   <meta name=“text:muse11name” content=“first last”/>
-   <meta name=“text:muse12name” content=“first last”/>
+    <meta name="image:background" content=""/>
+    <meta name="image:sidebar" content=""/>
+   
+    <meta name="image:muse1" content=""/>
+    <meta name="image:muse2" content=""/>
+    <meta name="image:muse3" content=""/>
+    <meta name="image:muse4" content=""/>
+    <meta name="image:muse5" content=""/>
+    <meta name="image:muse6" content=""/>
+    <meta name="image:muse7" content=""/>
+    <meta name="image:muse8" content=""/>
+    <meta name="image:muse9" content=""/>
+    <meta name="image:muse10" content=""/>
+    <meta name="image:muse11" content=""/>
+    <meta name="image:muse12" content=""/>
 
-   <meta name=“text:tablink1” content=“/”/>
-   <meta name=“text:tablink1title” content=“tab link 1”/>
-   <meta name=“text:tablink2” content=“/”/>
-   <meta name=“text:tablink2title” content=“tab link 2”/>
-   <meta name=“text:tablink3” content=“/”/>
-   <meta name=“text:tablink3title” content=“tab link 3”/>
-   <meta name=“text:tablink4” content=“/”/>
-   <meta name=“text:tablink4title” content=“tab link 4”/>
-   <meta name=“text:tablink5” content=“/”/>
-   <meta name=“text:tablink5title” content=“tab link 5”/>
-   <meta name=“text:tablink6” content=“/”/>
-   <meta name=“text:tablink6title” content=“tab link 6”/>
+    <meta name="color:background" content="#f3f3f3"/>
+    <meta name="color:contain" content="#f1f1f1"/>
+    <meta name="color:desc" content="#f8f8f8"/>
+    <meta name="color:sidelinks" content="#525252"/>
+    <meta name="color:postbg" content="#f3f3f3"/>
+    <meta name="color:title" content="#b4d7b7"/>
+    <meta name="color:bold" content="#d4caa2"/>
+    <meta name="color:italic" content="#d4a587"/>
+    <meta name="color:text" content="#525252"/>
+    <meta name="color:links" content="#525252"/>
+    <meta name="color:hover" content="#f3f3f3"/>
+    
+    <meta name="text:title" content="like fallin' from grace"/><!--- the different color text is <i> italic </i> --->
+    <meta name="text:desc" content="lorem ipsum"/>
+    
+    <meta name="text:muse1name" content="first last"/>
+    <meta name="text:muse2name" content="first last"/>
+    <meta name="text:muse3name" content="first last"/>
+    <meta name="text:muse4name" content="first last"/>
+    <meta name="text:muse5name" content="first last"/>
+    <meta name="text:muse6name" content="first last"/>
+    <meta name="text:muse7name" content="first last"/>
+    <meta name="text:muse8name" content="first last"/>
+    <meta name="text:muse9name" content="first last"/>
+    <meta name="text:muse10name" content="first last"/>
+    <meta name="text:muse11name" content="first last"/>
+    <meta name="text:muse12name" content="first last"/>
+    
+    <meta name="text:tablink1" content="/"/>
+    <meta name="text:tablink1title" content="tab link 1"/>
+    <meta name="text:tablink2" content="/"/>
+    <meta name="text:tablink2title" content="tab link 2"/>
+    <meta name="text:tablink3" content="/"/>
+    <meta name="text:tablink3title" content="tab link 3"/>
+    <meta name="text:tablink4" content="/"/>
+    <meta name="text:tablink4title" content="tab link 4"/>
+    <meta name="text:tablink5" content="/"/>
+    <meta name="text:tablink5title" content="tab link 5"/>
+    <meta name="text:tablink6" content="/"/>
+    <meta name="text:tablink6title" content="tab link 6"/>
 
-   <link rel=“shortcut icon” href=“{Favicon}” />
-   <link rel=“alternate” type=“application/rss+xml” href=“{RSS}” />
-   <title>{Title}</title>
-   {block:subtitleription}<meta name=“subtitleription” content=“{Metasubtitleription}” />     {/block:subtitleription}
 
-<script src=“https://static.tumblr.com/wgg6svp/OoTofxa0c/unnest.min.js”></script>
-<script> $(document).ready(function() { $(’.entries’).unnest({
-    yourCaption: “.caption”, //your caption selector, the div wrapping {Caption}
-          wrapName: “.tumblr_parent”, //the name of the captions’ new wrapper
-    newCaptionUsername: false, //if the user adds a new caption, following a series of captions, show their username above the caption
-    originalPostCaptionUsername: false, //for the original captions, or a user-added caption that previously didn’t have any, have their username on it
-    tumblrAvatars: true, //”dashboard style” caption, have the avatar of the blog next to the username
-    tumblrAvatarClass: “.tumblr_avatar”, //class of the avatar next to the username
-    usernameColon: true //if turned to false, removes the colon at the end of usernames bc :) seriously :) hwy :)
+    <link rel="shortcut icon" href="{Favicon}" />
+    <link rel="alternate" type="application/rss+xml" href="{RSS}" />
+    <title>{Title}</title>
+    {block:subtitleription}<meta name="subtitleription" content="{Metasubtitleription}" />     {/block:subtitleription}
+    
+    
+<script src="https://static.tumblr.com/wgg6svp/OoTofxa0c/unnest.min.js"></script>
+<script> $(document).ready(function() { $('.entries').unnest({ 
+     yourCaption: ".caption", //your caption selector, the div wrapping {Caption}
+           wrapName: ".tumblr_parent", //the name of the captions’ new wrapper
+     newCaptionUsername: false, //if the user adds a new caption, following a series of captions, show their username above the caption
+     originalPostCaptionUsername: false, //for the original captions, or a user-added caption that previously didn’t have any, have their username on it
+     tumblrAvatars: true, //”dashboard style” caption, have the avatar of the blog next to the username
+     tumblrAvatarClass: ".tumblr_avatar", //class of the avatar next to the username
+     usernameColon: true //if turned to false, removes the colon at the end of usernames bc :) seriously :) hwy :)
 });
- }); </script>
-
-<script src=“https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js”></script>
-<script src=“https://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js”></script>
-
+  }); </script>
+ 
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="https://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js"></script>
+ 
 <script>
 (function($){
 $(document).ready(function() {
-$(“a[title]”).style_my_tooltips({
+$("a[title]").style_my_tooltips({
 tip_follows_cursor:false,
 tip_delay_time:90,
 tip_fade_speed:600,
-attribute:“title”
+attribute:"title"
 });
 });
 })(jQuery);
 </script>
-
+ 
+ 
 <script>
 $(document).ready(function() {
 //
-$(‘a.poplight[href^=#]’).click(function() {
-var popID = $(this).attr('rel’); //Get Popup Name
-var popURL = $(this).attr('href’); //Get Popup href to define size
-var query= popURL.split(’?’);
-var dim= query[1].split(’&’);
-var popWidth = dim[0].split(’=’)[1]; //Gets the first query string value
-$(’#’ + popID).fadeIn().css({ 'width’: Number( popWidth ) }).prepend();
-$('body’).append(’<div id=“fade”></div>’);
-$(’#fade’).css({'filter’ : 'alpha(opacity=30)’}).fadeIn(); //Fade in the fade layer - .css({'filter’ : 'alpha(opacity=30)’})
+$('a.poplight[href^=#]').click(function() {
+var popID = $(this).attr('rel'); //Get Popup Name
+var popURL = $(this).attr('href'); //Get Popup href to define size
+var query= popURL.split('?');
+var dim= query[1].split('&');
+var popWidth = dim[0].split('=')[1]; //Gets the first query string value
+$('#' + popID).fadeIn().css({ 'width': Number( popWidth ) }).prepend();
+$('body').append('<div id="fade"></div>');
+$('#fade').css({'filter' : 'alpha(opacity=30)'}).fadeIn(); //Fade in the fade layer - .css({'filter' : 'alpha(opacity=30)'})
 return false;
 });
-
-$('a.close, #fade’).live('click’, function() {
-$(’#fade, .popup_block’).fadeOut(function() {
-$(’#fade, a.close’).remove(); //fade them both out
+ 
+$('a.close, #fade').live('click', function() {
+$('#fade, .popup_block').fadeOut(function() {
+$('#fade, a.close').remove(); //fade them both out
 });
 return false;
 });
 });
 </script>
-
-<script src=“https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js”></script>
-
+ 
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+ 
+ 
+ 
+ 
 <script>
 function openCity(evt, cityName) {
-   var i, tabcontent, tablinks;
-   tabcontent = document.getElementsByClassName(“tabcontent”);
-   for (i = 0; i < tabcontent.length; i++) {
-       tabcontent[i].style.display = “none”;
-   }
-   tablinks = document.getElementsByClassName(“tablinks”);
-   for (i = 0; i < tablinks.length; i++) {
-       tablinks[i].className = tablinks[i].className.replace(“ active”, “”);
-   }
-   document.getElementById(cityName).style.display = “block”;
-   evt.currentTarget.className += “ active”;
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
 }
 </script>
 
 <script>
 function openCity(evt, cityName) {
-   var i, musecontent, tablinks;
-   musecontent = document.getElementsByClassName(“musecontent”);
-   for (i = 0; i < musecontent.length; i++) {
-       musecontent[i].style.display = “none”;
-   }
-   muselinks = document.getElementsByClassName(“muselinks”);
-   for (i = 0; i < muselinks.length; i++) {
-       muselinks[i].className = muselinks[i].className.replace(“ active”, “”);
-   }
-   document.getElementById(cityName).style.display = “block”;
-   evt.currentTarget.className += “ active”;
+    var i, musecontent, tablinks;
+    musecontent = document.getElementsByClassName("musecontent");
+    for (i = 0; i < musecontent.length; i++) {
+        musecontent[i].style.display = "none";
+    }
+    muselinks = document.getElementsByClassName("muselinks");
+    for (i = 0; i < muselinks.length; i++) {
+        muselinks[i].className = muselinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
 }
 </script>
-
-<script type=“text/javascript”>
+ 
+<script type="text/javascript">
 $(document).ready(function(){
-
-   $('ul.tabs li’).click(function(){
-       var tab_id = $(this).attr('data-tab’);
-
-       $('ul.tabs li’).removeClass('current’);
-       $(’.tab-content’).removeClass('current’);
-
-       $(this).addClass('current’);
-       $(“#”+tab_id).addClass('current’);
-   })
-
+   
+    $('ul.tabs li').click(function(){
+        var tab_id = $(this).attr('data-tab');
+ 
+        $('ul.tabs li').removeClass('current');
+        $('.tab-content').removeClass('current');
+ 
+        $(this).addClass('current');
+        $("#"+tab_id).addClass('current');
+    })
+ 
 })
 </script>
+ 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+ 
+<script src ="//static.tumblr.com/fwgzvyf/Oj1o08f6h/shythemes.vr.js"></script>
+ 
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+ 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+ 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
+ 
+<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+ 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<script src=“//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js”></script>
+<link href="//dl.dropbox.com/s/50g6fbds3rh4m0j/saturnicons.css" rel="stylesheet">
+ 
+<link href="//dl.dropbox.com/s/vpi3f9s7nhpe7v7/honeybee.css" rel="stylesheet">
+ 
+<link rel="stylesheet" href="https://static.tumblr.com/i5s2zks/6kOohwlux/pe-icon-7-stroke.css">
 
-<script src =“//static.tumblr.com/fwgzvyf/Oj1o08f6h/shythemes.vr.js”></script>
+<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700" rel="stylesheet">
 
-<link rel=“stylesheet” href=“https://cdn.linearicons.com/free/1.0.0/icon-font.min.css”>
+<link href="https://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet">
 
-<link rel=“stylesheet” href=“https://use.fontawesome.com/releases/v5.8.2/css/all.css” integrity=“sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay” crossorigin=“anonymous”>
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
 
-<link rel=“stylesheet” href=“https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css”>
 
-<link rel=“stylesheet” href=“https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css”>
 
-<link href=“https://fonts.googleapis.com/icon?family=Material+Icons” rel=“stylesheet”>
+<style type="text/css">
 
-<link href=“//dl.dropbox.com/s/50g6fbds3rh4m0j/saturnicons.css” rel=“stylesheet”>
 
-<link href=“//dl.dropbox.com/s/vpi3f9s7nhpe7v7/honeybee.css” rel=“stylesheet”>
 
-<link rel=“stylesheet” href=“https://static.tumblr.com/i5s2zks/6kOohwlux/pe-icon-7-stroke.css”>
+/*   ------   fonts   ------   */
 
-<link href=“https://fonts.googleapis.com/css?family=Comfortaa:300,400,700” rel=“stylesheet”>
 
-<link href=“https://fonts.googleapis.com/css?family=ABeeZee” rel=“stylesheet”>
 
-<link href=“https://fonts.googleapis.com/css?family=Abril+Fatface” rel=“stylesheet”>
+@font-face { font-family: "coco"; src: url('https://dl.dropboxusercontent.com/s/h4xmli8klp2dub5/CerebriSans-Bold.ttf') ;}
 
-<style type=“text/css”>
+@font-face{ font-family:"ultralight"; src: url('https://dl.dropboxusercontent.com/s/dlemvpokem5l5pz/HelveticaNeueUltraLight.ttf’)'); }
 
-/*   ——   fonts   ——   */
 
-@font-face { font-family: “coco”; src: url('https://dl.dropboxusercontent.com/s/h4xmli8klp2dub5/CerebriSans-Bold.ttf’) ;}
 
-@font-face{ font-family:“ultralight”; src: url('https://dl.dropboxusercontent.com/s/dlemvpokem5l5pz/HelveticaNeueUltraLight.ttf’)’); }
+/*   ------   scrollbar  ------   */
 
-/*   ——   scrollbar  ——   */
+
 
 ::-webkit-scrollbar { width: 0px; height:0px;  background:transparent; }
 
 ::-webkit-scrollbar-thumb { background-color: transparent; }
-
-/*   ——   lightbox  ——   */
-
+ 
+ 
+ 
+/*   ------   lightbox  ------   */
+ 
+ 
+ 
 .vignette, #vignette { opacity:0; }
 
 .lightbox-image, #tumblr_lightbox img { box-shadow:none !important; border-radius:0 !important; max-width:none; border-radius:2px; border:5px solid {color:navbar} !important; -moz-box-sizing:border-box; box-sizing:border-box; }
-
+ 
 .tmblr-lightbox, #tumblr_lightbox { background-color:rgba(0,0,0,.6) !important; }
-
+ 
 .lightbox-caption, #tumblr_lightbox_caption { visibility:hidden; }
 
-/*   ——   tooltip   ——   */
+
+
+/*   ------   tooltip   ------   */
+
+
 
 #s-m-t-tooltip { max-width:250px; padding:2px 4px 2px 4px; margin:-30px 12px; color:{color:text}; background:{color:postbg}; z-index:9999999999999; font-size:9px; border-radius:4px; text-transform:lowercase; font-variant:none; letter-spacing:1px; font-weight:bold; }
 
-/*   ——   selection   ——   */
+
+
+/*   ------   selection   ------   */
+
+
 
 ::-moz-selection { background:{color:links}; color:{color:linksbg}; }
-
-::selection { background:{color:links}; color:{color:linksbg}; }
-
-/*   ——   popup   ——   */
-
+    
+::selection { background:{color:links}; color:{color:linksbg}; } 
+ 
+ 
+ 
+/*   ------   popup   ------   */
+ 
+ 
+ 
 #fade { display:none; background:#ccc; position:fixed; margin:auto; top:0px; bottom:0px; left:0; top:0; width:100%; height:100%; opacity:.6; z-index:999999999; }
-
+ 
 .popup_block { display:none; background:{color:background}; height:340px; width:300px; border-radius:4px; font-size:12px; position:absolute; margin:auto; top:0px; left:0px; bottom:0px; right:0px; overflow:hidden; z-index:99999999999; }
-
+ 
 .popup_block a { color:{color:links}; }
-
+ 
 .popup_block i { color:white; }
-
+ 
 .popup_block img { -webkit-filter:grayscale(0%); }
-
+ 
 img.btn_close { float: right; margin: 5px 5px 0 0; }
-
+ 
 *html #fade { position: absolute; }
-
+ 
 *html .popup_block { position: absolute; }
+ 
+ 
+ 
+/*   ------   text styles   ------   */
 
-/*   ——   text styles   ——   */
 
-body { background:{color:background}; margin:0px; font-weight:500; color:{color:text}; font-family:'ABeeZee’, sans-serif; font-size:10px; line-height:16px; letter-spacing:.5px; text-align:justify; background-image:url(’{image:Background}’); }
 
+body { background:{color:background}; margin:0px; font-weight:500; color:{color:text}; font-family:'ABeeZee', sans-serif; font-size:10px; line-height:16px; letter-spacing:.5px; text-align:justify; background-image:url('{image:Background}'); }
+     
 a { text-decoration:none; color:{color:links}; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; }
 
 a:hover { color:{color:text}; background:transparent; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; }
@@ -277,22 +327,26 @@ big { color:{color:title}; font-weight:600; font-variant:small-caps; letter-spac
 sup { text-transform:normal; color:{color:text}; font-size:10px; }
 
 sub { text-transform:normal; color:{color:text}; font-size:10px; }
-
+     
 blockquote { margin-left:5px; padding-left:10px; width:240px; border-left:1px solid {color:background}; }
-
+       
 blockquote blockquote { padding-left:10px; width:225px; border-left:1px solid {color:background}; }
-
-h1 { color:{color:bold}; font-size:8px; letter-spacing:2px; text-transform:uppercase;font-family:'ABeeZee’, sans-serif; font-style:none; line-height:10px; text-align:left; padding:0px; }
+     
+h1 { color:{color:bold}; font-size:8px; letter-spacing:2px; text-transform:uppercase;font-family:'ABeeZee', sans-serif; font-style:none; line-height:10px; text-align:left; padding:0px; }
 
 h2 { text-align: center; font-size:11px; letter-spacing:.5px; text-transform:lowercase; font-style:none; font-weight:400; line-height:14px; text-align:normal; padding:20px; }
 
-h3 { font-family:'ABeeZee’, sans-serif; font-size:24px; text-align:center; text-transform:lowercase; font-weight:400; letter-spacing:0px; margin-top:5px; color:{color:italic}; }
+h3 { font-family:'ABeeZee', sans-serif; font-size:24px; text-align:center; text-transform:lowercase; font-weight:400; letter-spacing:0px; margin-top:5px; color:{color:italic}; }
 
-/*   ——   captions   ——   */
 
+
+/*   ------   captions   ------   */
+ 
+ 
+ 
 .caption .tumblr_parent { margin:10px 10px 20px; padding: 0px 10px; border-left: 0px solid #ccc; font-size:7px; }
 
-.caption .tumblr_parent:after { content:“; display:block; width:100%; height:1px; margin:15px auto; background:{color:border}; }
+.caption .tumblr_parent:after { content:''; display:block; width:100%; height:1px; margin:15px auto; background:{color:border}; }
 
 .caption .tumblr_parent:last-of-type:after { display:none; }
 
@@ -301,47 +355,59 @@ h3 { font-family:'ABeeZee’, sans-serif; font-size:24px; text-align:center; tex
 .caption .tumblr_avatar { margin:0px 6px 0px 0px; width:12px; vertical-align:middle; padding:2px; border-radius:50%; border:1px solid #ddd; background:black; }
 
 a.tumblr_blog { background:{color:background}; font-weight:700; text-transform:uppercase; font-size:8px; letter-spacing:1px; padding:3px; border-radius:2px; }
-
+ 
 .caption { padding:10px 20px 20px 20px; }
 
-/*   ——   images/videos   ——   */
+
+
+/*   ------   images/videos   ------   */
+
+
 
 img { border:none; max-width:100%; height:auto; border-radius:4px; -webkit-filter:grayscale(100%); }
-
+   
 resize { width:300px; height:auto; }
-
+ 
 #posts img { -webkit-filter:grayscale(100%); }
-
+ 
 .photoset {  width:100%; border-radius:4px; -webkit-filter:grayscale(100%); }
 
-/*   ——   container & posts   ——   */
+
+
+/*   ------   container & posts   ------   */
+
+
 
 #contain { background:{color:contain}; width:620px; height:380px; margin:auto; left:0px; right:0px; top:0px; bottom:0px; position:absolute; overflow:visible; border-radius:4px; z-index:99999999; }
 
-#entries { width:300px; height:380px;  margin:auto; left:10px; top:0px; font-size:10px; position:absolute; font-family:'ABeeZee’, sans-serif; overflow-x:hidden; overflow-y:auto; letter-spacing:0px; padding-right:10px; border-right:1px solid {color:background}; }
-
+#entries { width:300px; height:380px;  margin:auto; left:10px; top:0px; font-size:10px; position:absolute; font-family:'ABeeZee', sans-serif; overflow-x:hidden; overflow-y:auto; letter-spacing:0px; padding-right:10px; border-right:1px solid {color:background}; }
+     
 #post { margin:auto; top:0px; right:0px; bottom:0px; left:0px; width:300px; background:{color:postbg}; padding:0px; position:relative; border-radius:4px; margin-top:10px; margin-bottom:20px; }
 
 #post i,em { color:{color:italic}; }
 
 #post b { color:{color:bold}; font-weight:700; }
-
+ 
 #post strong { color:{color:bold}; font-weight:700; }
 
-/*   ——   contain container   ——   */
 
-.title { position:absolute; top:25px; right:105px; width:190px; height:auto; padding-left:5px; overflow:hidden; font-family:'Abril Fatface’, cursive; font-size:33px; line-height:27px; text-align:right; color:{color:title}; overflow:visible; font-weight:300; font-style:italic; text-shadow:none; z-index:999999 }
+
+/*   ------   contain container   ------   */
+
+
+
+.title { position:absolute; top:25px; right:105px; width:190px; height:auto; padding-left:5px; overflow:hidden; font-family:'Abril Fatface', cursive; font-size:33px; line-height:27px; text-align:right; color:{color:title}; overflow:visible; font-weight:300; font-style:italic; text-shadow:none; z-index:999999 }
 
 .title i, em { color:{color:bold}; font-weight:300; }
 
 .navbar { position:absolute; top:80px; right:0px; overflow:visible; width:315px; height:5px; text-align:center; z-index:99999999999; }
-
+ 
 ul.navig8 { position:absolute; overflow:visible; list-style-type: none; padding:0; width:310px; height:40px; top:8px; left:30px; z-index:999999999; text-transform:uppercase; }
-
+ 
 ul.navig8 li { width: auto; float:left; margin:6px; }
-
+ 
 ul.navig8 li a { display:inline-block; color:{color:nav text}; letter-spacing:3px; font-size:7px; padding:3px;  }
-
+ 
 ul.navig8 li b { color:{color:bold}; }
 
 .desc { position:absolute; width:255px; line-height:16px; height:215px; margin:auto; bottom:20px; right:15px; overflow-y:scroll; overflow-x:visible; font-size:9px; padding:10px; color:{color:desc}; text-transform:lowercase; letter-spacing:.5px; text-align:justify; }
@@ -352,33 +418,45 @@ ul.navig8 li b { color:{color:bold}; }
 
 .desc a { color:{color:italic}; }
 
-/*   ——   pagination   ——   */
+
+
+/*   ------   pagination   ------   */
+
+
 
 #pagination { width:310px; position:relative; height:14px; padding:3px; padding-top:5px; margin:auto; bottom:25px; left:0px; word-spacing:20px; text-align:center; color:{color:text}; z-index:9999; }
-
+ 
 #pagination a { padding:5px; padding-left:8px; background:{color:postbg}; color:{color:text}; font-weight:bold; letter-spacing:5px; font-size:7px; border-radius:8px; }
 
-/*   ——   info / tags   ——   */
+
+
+/*   ------   info / tags   ------   */
+
+
 
 #info { background:{color:postbg}; width:auto; height:20px; text-align:left; margin-top:-16px; border-top:7px solid {color:contain}; border-bottom:7px solid {color:contain}; letter-spacing:1px; font-size:12px; font-style:none; padding:7px; line-height:20px; text-transform:uppercase; color:#6d6d6d; border-radius:2px; }
-
+   
 #info a { color:{color:links}; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; }
-
+   
 #info a:hover {  -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; color:{color:text}; background:transparent; }
-
+ 
 #tags { padding: 5px; color:{color:text}; text-transform: none; font-style:none; font-size: 7px; text-align: center; letter-spacing: 1px; }
-
+ 
 #tags i { color:{color:text}; }
-
+ 
 #tags a { color: {color:links}; }
-
+   
 #tags a:hover { color: {color:text}; background:transparent; }
-
+ 
 #notes { width:475px; margin-left:100px; }
 
-/*   ——   questions   ——   */
 
-#question { border-radius:4px 4px 0px 0px; color:{color:navbar}; padding:14px; font-family:'ABeeZee’, sans-serif; font-size:10px; font-weight:500; letter-spacing:.5px; text-align:center; margin-top:-16px; text-transform:normal; line-height:16px; background-color:{color:background}; }
+
+/*   ------   questions   ------   */
+
+
+
+#question { border-radius:4px 4px 0px 0px; color:{color:navbar}; padding:14px; font-family:'ABeeZee', sans-serif; font-size:10px; font-weight:500; letter-spacing:.5px; text-align:center; margin-top:-16px; text-transform:normal; line-height:16px; background-color:{color:background}; }
 
 #asker { font-size:8px; letter-spacing:5px; font-weight:300; color:#fff; padding:5px; background:{color:italic}; border-bottom:1px solid {color:background}; width:auto; text-align:center; text-transform:uppercase; border-radius:0px; }
 
@@ -388,89 +466,121 @@ ul.navig8 li b { color:{color:bold}; }
 
 #asker i { color:#fff; }
 
-/*   ——   music player   ——   */
+
+
+/*   ------   music player   ------   */
+
+
 
 .audio { width:300px; padding-bottom:10px; background-color:{color:border}; }
-
+   
 .audioinfo { background:{color:postbg}; width:198px; height:40px; text-align:center; margin-left:70px; padding:16px; color:{color:text}; text-transform:lowercase; border-radius:0px 4px 4px 0px; }
-
+ 
 .audioinfo b, strong, i, em { color:{color:title}; }
-
-.audioinfo h1 { text-align:center; font-size:12px; letter-spacing:0px; height:0px; font-weight:800; margin-top:10px; font-variant:none; text-transform:lowercase; color:{color:bold}; font-family:'ABeeZee’, sans-serif;
+ 
+.audioinfo h1 { text-align:center; font-size:12px; letter-spacing:0px; height:0px; font-weight:800; margin-top:10px; font-variant:none; text-transform:lowercase; color:{color:bold}; font-family:'ABeeZee', sans-serif;
 }
-
+ 
 .playerborderer { height:50px; width:50px; padding:15px; background:transparent; position:absolute;
 }
-
+ 
 .player { margin-top:-13px; margin-left:-13px; position:relative; text-align:center; width:6px; height:10px; overflow:hidden; padding:20px; background:transparent; opacity:.5; }
-
+ 
 .cover { border-radius:4px 0px 0px 0px; height:60px; width:60px; margin-right:10px; margin-top:0px; border:6px solid {color:background}; }
 
-/*   ——   quote source   ——   */
+
+
+/*   ------   quote source   ------   */
+
+
 
 .qsource { text-align:center; margin-top:-35px; padding:5px 5px 20px 5px; }
 
 .qsource i, em { color:{color:text}; }
 
-/*   ——   huney   ——   */
+
+
+/*   ------   huney   ------   */
+
+
 
 #huney  { text-align:center; font-size:14px; height:38px; width:80px; bottom:10px; left:10px; position:absolute; line-height:20px; padding:3px; letter-spacing:0px; overflow:hidden; z-index:5; }
 
 #huney li { width:22px; height:22px; padding:8px; list-style:none;  text-align:center; line-height:5px; background:{color:bold}; border-radius:8px; margin-right:17px; float:left; }
-
+ 
 #huney a { font-weight:bold; line-height:14px; font-size:20px;letter-spacing:2px; color:{color:contain}; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; z-index:99999; }
 
 ul.huney { position:absolute; overflow:hidden; list-style-type: none; margin: 0; padding: 0;  background-color: transparent; right:30px;  top:5px;  z-index:99999; }
-
+ 
 ul.huney li { width: 20px; float:left; margin-left:2px; }
-
+ 
 ul.huney li a{ display:inline-block; color:{color:subtitle}; font-size:20px; padding:3px; margin:-3px 0px 0px -2px;  }
-
-/*   ——   tab coding   ——   */
-
+ 
+ 
+ 
+/*   ------   tab coding   ------   */
+ 
+ 
+ 
 .tabclose { position:absolute; bottom:20px; left:0px; width:289px; font-weight:300; border-radius:2px; color:#999; z-index:999999999; font-size:9px; font-style:italic; text-align:center; letter-spacing:1px; -moz-transition-duration:1.5s; -webkit-transition-duration:1.5s; -o-transition-duration:1.5s; }
-
+ 
 .tabclose:hover { cursor:pointer; color:{color:bold}; -moz-transition-duration:1.5s; -webkit-transition-duration:1.5s; -o-transition-duration:1.5s; }
-
+ 
 .tabclose b { color:{color:bold}; font-size:12px; -webkit-transform:rotate(0deg); }
-
+ 
 .tabcontent { overflow:hidden; display: none; height:375; width:360px; padding:0px; margin-left:292px; margin-top:0px; background-color:transparent; z-index:99999999; -webkit-animation: fadeEffect 1s; animation: fadeEffect 1s; }
-
+ 
 .tabcontent.current { display: inherit; -webkit-animation: fadeEffect 1s; animation: fadeEffect 1s; }
 
 .musecontent { overflow:hidden; display: none; height:375; width:360px; padding:0px; margin-left:292px; margin-top:0px; background-color:transparent; z-index:99999999; -webkit-animation: fadeEffect 1s; animation: fadeEffect 1s; }
-
+ 
 .musecontent.current { display: inherit; -webkit-animation: fadeEffect 1s; animation: fadeEffect 1s; }
-
+ 
 @-webkit-keyframes fadeEffect { from { opacity: 0; } to { opacity: 1; } }
-
+ 
 @keyframes fadeEffect { from { opacity: 0; } to { opacity: 1; } }
-
-/*   ——   tab cosmetics   ——   */
-
+ 
+ 
+ 
+/*   ------   tab cosmetics   ------   */
+ 
+ 
+ 
 #navtab { position:absolute; bottom:0px; right:0px; width:299px; padding-top:20px; height:245px; background-color:{color:contain}; overflow:hidden; }
 
 #musetab { position:absolute; bottom:0px; right:0px; width:299px; padding-top:20px; height:245px; background-color:{color:contain}; overflow:hidden; }
+ 
+ 
+ 
+/*   ------   navtab cosmetics   ------   */
 
-/*   ——   navtab cosmetics   ——   */
 
-.tabnav { position:absolute; text-align:center; width:275px; height:170px; overflow:hidden; top:40px; left:5px; border-radius:0px; line-height:30px; font-family:'ABeeZee’, sans-serif; font-weight:300; text-transform:lowercase; letter-spacing:1px; font-size:16px; }
+
+.tabnav { position:absolute; text-align:center; width:275px; height:170px; overflow:hidden; top:40px; left:5px; border-radius:0px; line-height:30px; font-family:'ABeeZee', sans-serif; font-weight:300; text-transform:lowercase; letter-spacing:1px; font-size:16px; }
 
 ul.tab { position:absolute; display:inline-block; height:180px; width:275px; margin:auto; top:0px; left:0px; bottom:0px; right:0px; padding:0px; z-index:999999999; }
-
+ 
 ul.tab li { background:{color:postbg}; border-radius:4px; width:60px; height:auto; padding:10px; display:inline-block; margin:10px; line-height:14px; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; }
-
+ 
 ul.tab li a { color:{color:italic}; font-size:9px; line-height:14px;  }
 
 ul.tab li:hover { background:{color:background}; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; }
+ 
+ 
+ 
+/*   ------   musetab cosmetics   ------   */
 
-/*   ——   musetab cosmetics   ——   */
 
-.muses { position:absolute; text-align:center; padding:0px; width:279px; height:170px; overflow:scroll; margin:auto; top:25px; left:10px; border-radius:0px; font-family:'ABeeZee’, sans-serif; font-weight:300; text-transform:uppercase; letter-spacing:1px; font-size:9px; z-index:99999999999999; }
+
+.muses { position:absolute; text-align:center; padding:0px; width:279px; height:170px; overflow:scroll; margin:auto; top:25px; left:10px; border-radius:0px; font-family:'ABeeZee', sans-serif; font-weight:300; text-transform:uppercase; letter-spacing:1px; font-size:9px; z-index:99999999999999; }
 
 .muses img { width:40px; height:40px; background:{color:postbg}; border-radius:4px; display:inline-block; margin:10px; -webkit-filter:grayscale(0%); }
 
-/*   ——   popup cosmetics   ——   */
+
+
+/*   ------   popup cosmetics   ------   */
+ 
+ 
 
 .musename { position:absolute; width:280px; height:auto; padding:10px; font-size:24px; font-weight:600; top:20px; left:0px; color:{color:postbg}; text-align:center; }
 
@@ -484,661 +594,766 @@ ul.tab li:hover { background:{color:background}; -moz-transition-duration:1s; -w
 
 .threads img { width:40px; height:40px; border-radius:4px; background:white; margin:2px 6px 2px 6px; -webkit-filter:grayscale(0%); }
 
-.poplinks { position:absolute; text-align:center; width:300px; height:60px; overflow:hidden; bottom:0px; left:0px; border-top:1px solid #d8d8d8; line-height:26px; font-family:'ABeeZee’, sans-serif; font-weight:300; text-transform:none; letter-spacing:1px; font-size:16px; }
+.poplinks { position:absolute; text-align:center; width:300px; height:60px; overflow:hidden; bottom:0px; left:0px; border-top:1px solid #d8d8d8; line-height:26px; font-family:'ABeeZee', sans-serif; font-weight:300; text-transform:none; letter-spacing:1px; font-size:16px; }
 
 ul.pop { position:absolute; display:inline-block; height:60px; width:300px; margin:auto; top:0px; left:0px; bottom:0px; right:0px; padding:0px; z-index:999999999; }
-
+ 
 ul.pop li { width:40px; height:40px; padding:10px; display:inline-block; line-height:20px; margin:1px 3px 0px 3px; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; }
-
+ 
 ul.pop li a { color:{color:text}; font-size:9px; line-height:12px; margin-top:28px;  }
 
 ul.pop li:hover { background:{color:background}; -moz-transition-duration:1s; -webkit-transition-duration:1s; -o-transition-duration:1s; }
 
-/*   ——   end of css coding   ——   */
+
+
+
+
+/*   ------   end of css coding   ------   */
+
+
 
 {CustomCSS}</style></head><body>
+ 
+ 
+ 
+<!------    begin html coding    ------>
+ 
+ 
+ 
+<!-- -------------------------- begin popup 01 ------------------------ -->
+ 
+ 
+ 
+<div id="01" class="popup_block">
 
-<!——    begin html coding    ——>
 
-<!– ————————– begin popup 01 ———————— –>
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://66.media.tumblr.com/7c1268f24713261e9f2f0b0e19a3ceab/tumblr_inline_psl34qoaeP1rcw8fh_500.png"></div>
 
-<div id="01” class=“popup_block”>
+<div class="musename">  beau cavanaugh  </div>
+<div class="shortstats">  xxii. some guy. the lothario.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
 
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://66.media.tumblr.com/7c1268f24713261e9f2f0b0e19a3ceab/tumblr_inline_psl34qoaeP1rcw8fh_500.png”></div>
+<div class="border"></div>
 
-<div class=“musename”>  beau cavanaugh  </div>
-<div class=“shortstats”>  xxii. some guy. the lothario.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
 
-<div class=“border”></div>
+<div class="threads">
 
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
+<img src="https://placehold.it/40x40">
 
-<div class=“threads”>
+<img src="https://placehold.it/40x40">
 
-<img src=“https://placehold.it/40x40”>
+<img src="https://placehold.it/40x40">
 
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
+<img src="https://placehold.it/40x40">
 
 </div>
 
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
 </ul>
 </div>
 
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 01 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 02 ------------------------ -->
+ 
+ 
+ 
+<div id="02" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
 </div>
 
-<!– ————————– end popup 01 ———————— –>
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 02 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 03 ------------------------ -->
+ 
+ 
+ 
+<div id="03" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
 
-<!– ————————– begin popup 02 ———————— –>
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
 
-<div id=“02” class=“popup_block”>
+<div class="border"></div>
 
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
 
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+<div class="threads">
 
-<div class=“border”></div>
+<img src="https://placehold.it/40x40">
 
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
+<img src="https://placehold.it/40x40">
 
-<div class=“threads”>
+<img src="https://placehold.it/40x40">
 
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
+<img src="https://placehold.it/40x40">
 
 </div>
 
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 03 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 04 ------------------------ -->
+ 
+ 
+ 
+<div id="04" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 04 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 05 ------------------------ -->
+ 
+ 
+ 
+<div id="05" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 05 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 06 ------------------------ -->
+ 
+ 
+ 
+<div id="06" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 06 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 07 ------------------------ -->
+ 
+ 
+ 
+<div id="07" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 07 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 08 ------------------------ -->
+ 
+ 
+ 
+<div id="08" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 08 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 09 ------------------------ -->
+ 
+ 
+ 
+<div id="09" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 09 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 10 ------------------------ -->
+ 
+ 
+ 
+<div id="10" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 10 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 11 ------------------------ -->
+ 
+ 
+ 
+<div id="11" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 11 ------------------------ -->
+ 
+ 
+ 
+<!-- -------------------------- begin popup 12 ------------------------ -->
+ 
+ 
+ 
+<div id="12" class="popup_block">
+ 
+<div style="position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);"><img src="https://placehold.it/300x85"></div>
+
+<div class="musename">  first last  </div>
+<div class="shortstats">  age. faceclaim. label.  </div>
+<div class="aesthetics">  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
+
+<div class="border"></div>
+
+<div style="position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;"> <span class="fa fa-camera"></span> </div>
+
+<div class="threads">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+<img src="https://placehold.it/40x40">
+
+</div>
+
+<div class="poplinks">
+<ul class="pop">
+<li><a href="/tagged/">  <span class="fa fa-fire" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Muse</a></li>
+<li><a href="/tagged/sabine x ethan">  <span class="fa fa-heart" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Ship</a></li>
+<li><a href="/tagged/">  <span class="fa fa-pen-square" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Threas</a></li>
+<li><a href="/">  <span class="fab fa-pinterest" style="font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};"></span><br>Board</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+ 
+ 
+<!-- -------------------------- end popup 12 ------------------------ -->
+
+
+
+<div id="contain">
+
+<div class="title">{text:title}</div>
+
+<div class="navbar">
+<ul class="navig8">
+<li><a href="/" title="go back to the start">refresh</a></li>
+<li><a href="/faq" title="send me some mail">message</a></li>
+<li><a href="#" class="tablinks" onclick="openCity(event, 'navtab')" title="navigate">navigate</a></li>
+<li><a href="#" class="muselinks" onclick="openCity(event, 'musetab')" title="muses">muses</a></li>
 </ul>
 </div>
 
-</div>
+<div class="desc">{text:desc}</div>
 
-<!– ————————– end popup 02 ———————— –>
+<img src="{image:sidebar}" style="position:absolute; width:65px; height:65px; top:20px; right:25px; -webkit-filter:grayscale(0%); z-index:999; border-radius:100%;">
 
-<!– ————————– begin popup 03 ———————— –>
 
-<div id=“03” class=“popup_block”>
 
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
+<!------    navigation tab   ------>
+ 
+ 
+ 
+<div id="navtab" class="tabcontent">
+<span onclick="this.parentElement.style.display='none'" class="tabclose"> click here to close the tab </span>
+ 
+<div class="tabnav">
+<ul class="tab">
+<li><a href="{text:tablink1}"> {text:tablink1title}</a></li>
+<li><a href="{text:tablink2}"> {text:tablink2title}</a></li>
+<li><a href="{text:tablink3}"> {text:tablink3title}</a></li>
+<li><a href="{text:tablink4}"> {text:tablink4title}</a></li>
+<li><a href="{text:tablink5}"> {text:tablink5title}</a></li>
+<li><a href="{text:tablink6}"> {text:tablink6title}</a></li>
 </ul>
 </div>
-
+ 
 </div>
 
-<!– ————————– end popup 03 ———————— –>
 
-<!– ————————– begin popup 04 ———————— –>
 
-<div id=“04” class=“popup_block”>
+<!------    muse tab   ------>
+ 
+ 
+ 
+<div id="musetab" class="musecontent">
+<span onclick="this.parentElement.style.display='none'" class="tabclose"> click here to close the tab </span>
 
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
+<div class="muses">
+<a href="#?w=300" rel="01" class="poplight" title="{text:muse1name}"><img src="{image:muse1}"></a>
+<a href="#?w=300" rel="02" class="poplight" title="{text:muse2name}"><img src="{image:muse2}"></a>
+<a href="#?w=300" rel="03" class="poplight" title="{text:muse3name}"><img src="{image:muse3}"></a>
+<a href="#?w=300" rel="04" class="poplight" title="{text:muse4name}"><img src="{image:muse4}"></a>
+<a href="#?w=300" rel="05" class="poplight" title="{text:muse5name}"><img src="{image:muse5}"></a>
+<a href="#?w=300" rel="06" class="poplight" title="{text:muse6name}"><img src="{image:muse6}"></a>
+<a href="#?w=300" rel="07" class="poplight" title="{text:muse7name}"><img src="{image:muse7}"></a>
+<a href="#?w=300" rel="08" class="poplight" title="{text:muse8name}"><img src="{image:muse8}"></a>
+<a href="#?w=300" rel="09" class="poplight" title="{text:muse9name}"><img src="{image:muse9}"></a>
+<a href="#?w=300" rel="10" class="poplight" title="{text:muse10name}"><img src="{image:muse10}"></a>
+<a href="#?w=300" rel="11" class="poplight" title="{text:muse11name}"><img src="{image:muse11}"></a>
+<a href="#?w=300" rel="12" class="poplight" title="{text:muse12name}"><img src="{image:muse12}"></a>
+</div>
+ 
 </div>
 
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
 
-</div>
 
-<!– ————————– end popup 04 ———————— –>
+<!------    begin posts   ------>
+ 
+ 
+ 
+<div id="entries">
 
-<!– ————————– begin popup 05 ———————— –>
 
-<div id=“05” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 05 ———————— –>
-
-<!– ————————– begin popup 06 ———————— –>
-
-<div id=“06” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 06 ———————— –>
-
-<!– ————————– begin popup 07 ———————— –>
-
-<div id=“07” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 07 ———————— –>
-
-<!– ————————– begin popup 08 ———————— –>
-
-<div id=“08” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 08 ———————— –>
-
-<!– ————————– begin popup 09 ———————— –>
-
-<div id=“09” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 09 ———————— –>
-
-<!– ————————– begin popup 10 ———————— –>
-
-<div id=“10” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 10 ———————— –>
-
-<!– ————————– begin popup 11 ———————— –>
-
-<div id=“11” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 11 ———————— –>
-
-<!– ————————– begin popup 12 ———————— –>
-
-<div id=“12” class=“popup_block”>
-
-<div style=“position:absolute; width:300px; height:85px; top:0px; left:0px; -webkit-filter:blur(1px);”><img src=“https://placehold.it/300x85”></div>
-
-<div class=“musename”>  first last  </div>
-<div class=“shortstats”>  age. faceclaim. label.  </div>
-<div class=“aesthetics”>  lorem ipsum dolor sit amet, consectetur adipiscing elit. donec non odio eget elit congue imperdiet eget vel tortor. curabitur purus leo, imperdiet non laoreet ac, tincidunt id felis. etiam ac sodales massa, eget vestibulum leo. vivamus pellentesque nibh risus, nec efficitur enim tempus eget. suspendisse id risus eget diam porta bibendum et pulvinar ipsum. etiam ligula mi, pellentesque at lectus a, vestibulum iaculis nisi. praesent ac egestas leo. duis et leo nec sem volutpat placerat. phasellus non mauris urna. fusce tellus tortor, aliquam vitae convallis hendrerit, ultrices tempus leo. fusce placerat lacus mi, quis sollicitudin purus tincidunt eu.  </div>
-
-<div class=“border”></div>
-
-<div style=“position:absolute; bottom:88px; left:25px; font-size:24px; color:#cacaca;”> <span class=“fa fa-camera”></span> </div>
-
-<div class=“threads”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-<img src=“https://placehold.it/40x40”>
-
-</div>
-
-<div class=“poplinks”>
-<ul class=“pop”>
-<li><a href=“/tagged/”>  <span class=“fa fa-fire” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Muse</a></li>
-<li><a href=“/tagged/sabine x ethan”>  <span class=“fa fa-heart” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Ship</a></li>
-<li><a href=“/tagged/”>  <span class=“fa fa-pen-square” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Threas</a></li>
-<li><a href=“/”>  <span class=“fab fa-pinterest” style=“font-size:20px; line-height:7px; margin-top:5px; color:{color:italic};”></span><br>Board</a></li>
-</ul>
-</div>
-
-</div>
-
-<!– ————————– end popup 12 ———————— –>
-
-<div id=“contain”>
-
-<div class=“title”>{text:title}</div>
-
-<div class=“navbar”>
-<ul class=“navig8”>
-<li><a href=“/” title=“go back to the start”>refresh</a></li>
-<li><a href=“/faq” title=“send me some mail”>message</a></li>
-<li><a href=“#” class=“tablinks” onclick=“openCity(event, 'navtab’)” title=“navigate”>navigate</a></li>
-<li><a href=“#” class=“muselinks” onclick=“openCity(event, 'musetab’)” title=“muses”>muses</a></li>
-</ul>
-</div>
-
-<div class=“desc”>{text:desc}</div>
-
-<img src=“{image:sidebar}” style=“position:absolute; width:65px; height:65px; top:20px; right:25px; -webkit-filter:grayscale(0%); z-index:999; border-radius:100%;”>
-
-<!——    navigation tab   ——>
-
-<div id=“navtab” class=“tabcontent”>
-<span onclick=“this.parentElement.style.display='none’” class=“tabclose”> click here to close the tab </span>
-
-<div class=“tabnav”>
-<ul class=“tab”>
-<li><a href=“{text:tablink1}”> {text:tablink1title}</a></li>
-<li><a href=“{text:tablink2}”> {text:tablink2title}</a></li>
-<li><a href=“{text:tablink3}”> {text:tablink3title}</a></li>
-<li><a href=“{text:tablink4}”> {text:tablink4title}</a></li>
-<li><a href=“{text:tablink5}”> {text:tablink5title}</a></li>
-<li><a href=“{text:tablink6}”> {text:tablink6title}</a></li>
-</ul>
-</div>
-
-</div>
-
-<!——    muse tab   ——>
-
-<div id=“musetab” class=“musecontent”>
-<span onclick=“this.parentElement.style.display='none’” class=“tabclose”> click here to close the tab </span>
-
-<div class=“muses”>
-<a href=“#?w=300” rel=“01” class=“poplight” title=“{text:muse1name}”><img src=“{image:muse1}”></a>
-<a href=“#?w=300” rel=“02” class=“poplight” title=“{text:muse2name}”><img src=“{image:muse2}”></a>
-<a href=“#?w=300” rel=“03” class=“poplight” title=“{text:muse3name}”><img src=“{image:muse3}”></a>
-<a href=“#?w=300” rel=“04” class=“poplight” title=“{text:muse4name}”><img src=“{image:muse4}”></a>
-<a href=“#?w=300” rel=“05” class=“poplight” title=“{text:muse5name}”><img src=“{image:muse5}”></a>
-<a href=“#?w=300” rel=“06” class=“poplight” title=“{text:muse6name}”><img src=“{image:muse6}”></a>
-<a href=“#?w=300” rel=“07” class=“poplight” title=“{text:muse7name}”><img src=“{image:muse7}”></a>
-<a href=“#?w=300” rel=“08” class=“poplight” title=“{text:muse8name}”><img src=“{image:muse8}”></a>
-<a href=“#?w=300” rel=“09” class=“poplight” title=“{text:muse9name}”><img src=“{image:muse9}”></a>
-<a href=“#?w=300” rel=“10” class=“poplight” title=“{text:muse10name}”><img src=“{image:muse10}”></a>
-<a href=“#?w=300” rel=“11” class=“poplight” title=“{text:muse11name}”><img src=“{image:muse11}”></a>
-<a href=“#?w=300” rel=“12” class=“poplight” title=“{text:muse12name}”><img src=“{image:muse12}”></a>
-</div>
-
-</div>
-
-<!——    begin posts   ——>
-
-<div id=“entries”>
 
 {block:posts}
-<!– {block:NoRebloggedFrom}
+<!-- {block:NoRebloggedFrom}
 {block:RebloggedFrom}{ReblogParentName}{/block:RebloggedFrom}
-{/block:NoRebloggedFrom} –>
-{block:ContentSource}<!– {SourceURL}
-{block:SourceLogo}<img src=“{BlackLogoURL}"width=”{LogoWidth}“ height=”{LogoHeight}“ alt=”{Sourcetitle}“ />{/block:SourceLogo}
-{block:NoSourceLogo}{SourceLink}{/block:NoSourceLogo} –>
+{/block:NoRebloggedFrom} -->
+{block:ContentSource}<!-- {SourceURL}
+{block:SourceLogo}<img src="{BlackLogoURL}"width="{LogoWidth}" height="{LogoHeight}" alt="{Sourcetitle}" />{/block:SourceLogo}
+{block:NoSourceLogo}{SourceLink}{/block:NoSourceLogo} -->
 {/block:ContentSource}
-<div id="post”>
-
-{block:Text}{block:Title}<h3>{Title}</h3>{/block:Title}<div class=“caption”>{Body}</div>{/block:Text}
-
-{block:Photo}<center><img src=“{PhotoURL-500}”/></center>{block:Caption}<div class=“caption”>{Caption}</div>{/block:Caption}{/block:Photo}
-
-{block:Photoset}<center>{Photoset-500}</center>{block:Caption}<div class=“caption”>{Caption}</div>{/block:Caption}{/block:Photoset}
-
+<div id="post">
+ 
+{block:Text}{block:Title}<h3>{Title}</h3>{/block:Title}<div class="caption">{Body}</div>{/block:Text}
+ 
+{block:Photo}<center><img src="{PhotoURL-500}"/></center>{block:Caption}<div class="caption">{Caption}</div>{/block:Caption}{/block:Photo}
+ 
+{block:Photoset}<center>{Photoset-500}</center>{block:Caption}<div class="caption">{Caption}</div>{/block:Caption}{/block:Photoset}
+ 
 {block:Quote}<h2>{Quote}</h2><br>
-{block:Source}<div class=“qsource”> — {Source}</div>
+{block:Source}<div class="qsource"> — {Source}</div>
 {/block:Source}{/block:Quote}
-
-{block:Link}<h3><a href=“{URL}></script>” {Target}>{Name}</a></h3>{block:subtitleription}<div class=“caption”>{subtitleription}</div>{/block:subtitleription}{/block:Link}
-
+ 
+{block:Link}<h3><a href="{URL}></script>" {Target}>{Name}</a></h3>{block:subtitleription}<div class="caption">{subtitleription}</div>{/block:subtitleription}{/block:Link}
+ 
 {block:Chat}{block:title}<h3>{title}</h3>{/block:title}<br>{block:Lines}{block:Label}<b>{Label}</b>{/block:Label} {Line}<br>{/block:Lines}{/block:Chat}
+ 
+{block:Audio}{block:AlbumArt}<img src="{AlbumArtURL}" align="left" class="cover" />{/block:AlbumArt}<div class="playerborderer"><div class="player">{block:AudioPlayer}{AudioPlayerWhite}{/block:AudioPlayer}</div></div><div class="audioinfo">{block:TrackName}<h1>{TrackName}</h1>{/block:TrackName}{block:Artist}— {Artist} —{/block:Artist}</div>{/block:Audio}<br>
+ 
+{block:Video}<div class="video">{Video-500}</div>{block:Caption}<div class="caption">{Caption}</div>{/block:caption}{/block:Video}
+ 
+{block:Answer}<div id="question">{Question}</div><div id="asker"><b><i>{Asker}</i></b><br></div><div class="caption">{Answer}</div>{/block:Answer}
+   
+<div id="info">
+<div style="float:left; padding:0px 6px 0px 6px; font-family:coco; font-weight:600; font-size:10px; background:{color:postbg}; border-radius:2px;"><a href="{Permalink}" title="{TimeAgo}">{ShortMonth}{DayOfMonthWithZero}</a></div>
+<div style="float:right; padding:0px 6px 0px 6px; font-family:coco; font-weight:600; font-size:10px; background:{color:postbg}; border-radius:2px;"> <a href="{ReblogURL}" target="_blank" class="details" style="color:{color:bold};">REBLOG</span></a></span></div>{/block:NoteCount}
+<div style="float:right; margin-right:5px; padding:0px 2px 0px 6px; font-family:coco; font-weight:600; font-size:10px; background:{color:postbg}; border-radius:2px;"> <a href="{Permalink}" title="{TimeAgo}">{NoteCount}N</a>&nbsp;</div></div>
 
-{block:Audio}{block:AlbumArt}<img src=“{AlbumArtURL}” align=“left” class=“cover” />{/block:AlbumArt}<div class=“playerborderer”><div class=“player”>{block:AudioPlayer}{AudioPlayerWhite}{/block:AudioPlayer}</div></div><div class=“audioinfo”>{block:TrackName}<h1>{TrackName}</h1>{/block:TrackName}{block:Artist}— {Artist} —{/block:Artist}</div>{/block:Audio}<br>
 
-{block:Video}<div class=“video”>{Video-500}</div>{block:Caption}<div class=“caption”>{Caption}</div>{/block:caption}{/block:Video}
-
-{block:Answer}<div id=“question”>{Question}</div><div id=“asker”><b><i>{Asker}</i></b><br></div><div class=“caption”>{Answer}</div>{/block:Answer}
-
-<div id=“info”>
-<div style=“float:left; padding:0px 6px 0px 6px; font-family:coco; font-weight:600; font-size:10px; background:{color:postbg}; border-radius:2px;”><a href=“{Permalink}” title=“{TimeAgo}”>{ShortMonth}{DayOfMonthWithZero}</a></div>
-<div style=“float:right; padding:0px 6px 0px 6px; font-family:coco; font-weight:600; font-size:10px; background:{color:postbg}; border-radius:2px;”> <a href=“{ReblogURL}” target=“_blank” class=“details” style=“color:{color:bold};”>REBLOG</span></a></span></div>{/block:NoteCount}
-<div style=“float:right; margin-right:5px; padding:0px 2px 0px 6px; font-family:coco; font-weight:600; font-size:10px; background:{color:postbg}; border-radius:2px;”> <a href=“{Permalink}” title=“{TimeAgo}”>{NoteCount}N</a>&nbsp;</div></div>
-
-{block:HasTags}<div id=“tags”>
-
-{block:Tags}<i class=“pe-7s-ticket”></i> <a href=“/tagged/{Tag}”>{Tag}</a>&nbsp;&nbsp;{/block:Tags}
+{block:HasTags}<div id="tags">
+ 
+{block:Tags}<i class="pe-7s-ticket"></i> <a href="/tagged/{Tag}">{Tag}</a>&nbsp;&nbsp;{/block:Tags}
 </div>{block:HasTags}
 </div>
 {/block:Posts}
-<br><br>{block:PostNotes}<div id=“notes”><left>{PostNotes}</div>{/block:PostNotes}
+<br><br>{block:PostNotes}<div id="notes"><left>{PostNotes}</div>{/block:PostNotes}
 </article>
 {/block:Posts}
-
-<div id=“pagination”>{block:Pagination}{block:PreviousPage}<a href=“{PreviousPage}”>BACK</a>{/block:PreviousPage} {block:NextPage}<a href=“{NextPage}”>NEXT</a><br />{/block:NextPage}{/block:Pagination}</div>
+    
+<div id="pagination">{block:Pagination}{block:PreviousPage}<a href="{PreviousPage}">BACK</a>{/block:PreviousPage} {block:NextPage}<a href="{NextPage}">NEXT</a><br />{/block:NextPage}{/block:Pagination}</div>
 
 </div></div>
 </div>
-
-<div id=“huney”><ul class=“huney”><li><a href=“https://redjamies.tumblr.com” title=“code by ally”><span class=“sf sf-cloud-o”></span></a></li></ul></div>
+   
+<div id="huney"><ul class="huney"><li><a href="https://redjamies.tumblr.com" title="code by ally"><span class="sf sf-cloud-o"></span></a></li></ul></div>
 </div>
 
-<!– begin scripts ————— DO NOT DELETE! –>
 
-<script src=“https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js”></script>
+
+<!-- begin scripts ————— DO NOT DELETE! -->
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-  $(’.video iframe’).each(function(){
-      var scale = $(this).parents(’.video’).width() / 400;
-      $(this).attr({
-          width: Math.floor($(this).attr('width’) * scale),
-          height: Math.floor($(this).attr('height’) * scale)
-      });
-  });
-});
-</script>
-
-<!– TABS/ALL-INN-ONE SCRIPTS DO NOT REMOVE!!! –>
-
-<script>
-$(document).ready(function() {
-   $(’.tabs .tab-links a’).on('click’, function(e)  {
-       var currentAttrValue = $(this).attr('href’);
-
-       // Show/Hide Tabs
-       $(’.tabs ’ + currentAttrValue).fadeIn(600).siblings().hide();
-
-       // Change/remove current tab to active
-       $(this).parent('li’).addClass('active’).siblings().removeClass('active’);
-
-       e.preventDefault();
+   $('.video iframe').each(function(){
+       var scale = $(this).parents('.video').width() / 400;
+       $(this).attr({
+           width: Math.floor($(this).attr('width') * scale),
+           height: Math.floor($(this).attr('height') * scale)
+       });
    });
 });
 </script>
 
+
+<!-- TABS/ALL-INN-ONE SCRIPTS DO NOT REMOVE!!! -->
+ 
 <script>
 $(document).ready(function() {
- $(’#filterOptions li a’).click(function() {
-   // fetch the class of the clicked item
-   var ourClass = $(this).attr('class’);
-
-   // reset the active class on all the buttons
-   $(’#filterOptions li’).removeClass('active’);
-   // update the active state on our clicked button
-   $(this).parent().addClass('active’);
-
-   if(ourClass == 'all’) {
-     // show all our items
-     $(’#ourHolder’).children('div.item’).show();
-   }
-   else {
-     // hide all elements that don’t share ourClass
-     $(’#ourHolder’).children('div:not(.’ + ourClass + ’)’).hide();
-     // show all elements that do share ourClass
-     $(’#ourHolder’).children('div.’ + ourClass).show();
-   }
-   return false;
- });
+    $('.tabs .tab-links a').on('click', function(e)  {
+        var currentAttrValue = $(this).attr('href');
+ 
+        // Show/Hide Tabs
+        $('.tabs ' + currentAttrValue).fadeIn(600).siblings().hide();
+ 
+        // Change/remove current tab to active
+        $(this).parent('li').addClass('active').siblings().removeClass('active');
+ 
+        e.preventDefault();
+    });
+});
+</script>
+ 
+<script>
+$(document).ready(function() {
+  $('#filterOptions li a').click(function() {
+    // fetch the class of the clicked item
+    var ourClass = $(this).attr('class');
+ 
+    // reset the active class on all the buttons
+    $('#filterOptions li').removeClass('active');
+    // update the active state on our clicked button
+    $(this).parent().addClass('active');
+ 
+    if(ourClass == 'all') {
+      // show all our items
+      $('#ourHolder').children('div.item').show();
+    }
+    else {
+      // hide all elements that don't share ourClass
+      $('#ourHolder').children('div:not(.' + ourClass + ')').hide();
+      // show all elements that do share ourClass
+      $('#ourHolder').children('div.' + ourClass).show();
+    }
+    return false;
+  });
 });
 </script>
 
+       
 </body></html>
